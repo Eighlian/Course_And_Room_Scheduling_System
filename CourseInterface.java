@@ -1,4 +1,7 @@
+package Controller;
 import java.sql.SQLException;
+
+import Model.Course;
 
 public interface CourseInterface extends GenericInterface<Course> {
 	
